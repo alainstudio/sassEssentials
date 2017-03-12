@@ -1,2 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Josefin+Sans|Josefin+Slab|Merriweather|Roboto+Slab");
+html {
+  font-size: 16px; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-family: Merriweather, Helvetica, sans-serif;
+  background-color: #EEE8D6; }
+
+.container {
+  width: 80%;
+  margin: 0 auto; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: font-highlines;
+  color: #D14348; }
 
 /*# sourceMappingURL=app.css.map */
