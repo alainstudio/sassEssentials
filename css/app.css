@@ -17,4 +17,27 @@ h1, h2, h3, h4, h5, h6 {
   font-family: font-highlines;
   color: #D14348; }
 
+.media {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  .media .item {
+    margin-bottom: 20px;
+    border-top: 1px dotted #D14348;
+    padding-top: 10px; }
+  .media .head {
+    margin: 0;
+    padding: 0;
+    color: #0076A3;
+    font-size: 1.5rem; }
+  .media p {
+    font-size: .8rem;
+    margin: 0; }
+  .media img {
+    float: left;
+    margin-right: 10px; }
+  .media a {
+    text-decoration: none;
+    color: #022933; }
+
 /*# sourceMappingURL=app.css.map */
