@@ -73,6 +73,25 @@
 		"oAP": "\/sass\/.qicon",
 		"oF": 0
 		},
+	"\/sass\/0-plugins\/.qicon": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/0-plugins\/.qicon",
+		"oF": 0
+		},
+	"\/sass\/0-plugins\/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/1-base\/.qicon": {
 		"ft": 8192,
 		"oA": 2,
@@ -92,6 +111,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/sass\/1-base\/_mixins.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/1-base\/_variables.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -101,6 +133,25 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/sass\/css\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/2-layouts\/.qicon": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/2-layouts\/.qicon",
+		"oF": 0
+		},
+	"\/sass\/2-layouts\/_backgrounds.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/_backgrounds.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -136,6 +187,28 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/sass\/css\/.qicon": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/css\/.qicon",
+		"oF": 0
+		},
+	"\/sass\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/sass\/css\/normalize.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/sass\/css\/normalize.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/css\/normalize.css.map",
+		"oF": 0
 		}
 	},
 "hooks": [
