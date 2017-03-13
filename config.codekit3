@@ -122,19 +122,6 @@
 		"oAP": "\/sass\/1-base\/.qicon",
 		"oF": 0
 		},
-	"\/sass\/1-base\/_base.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/sass\/css\/_base.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/sass\/1-base\/_mixins.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -157,6 +144,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/sass\/css\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/sass\/1-base\/global.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/sass\/css\/global.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
