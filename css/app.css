@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Josefin+Sans|Josefin+Slab|Merriweather|Roboto+Slab");
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -8,6 +7,7 @@
  */
 /* Document
    ========================================================================== */
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Josefin+Sans|Josefin+Slab|Merriweather|Roboto+Slab");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -403,6 +403,8 @@ template {
 [hidden] {
   display: none; }
 
+/* Custom CSS / SASS  Start here
+  @mixin ========================================================== */
 html {
   font-size: 16px; }
 
@@ -512,5 +514,27 @@ h1, h2, h3, h4, h5, h6 {
   .media a {
     text-decoration: none;
     color: #022933; }
+
+.grid:after {
+  content: '';
+  display: table; }
+
+.grid:after {
+  clear: both; }
+
+.grid .item {
+  float: left;
+  width: 32.6666666667%; }
+  .grid .item:nth-child(n) {
+    margin-right: 1%;
+    margin-bottom: 1%; }
+  .grid .item:nth-child(3n) {
+    margin-right: 0;
+    margin-bottom: 0; }
+
+.grid img {
+  display: block;
+  border-radius: 10px;
+  max-width: 100%; }
 
 /*# sourceMappingURL=app.css.map */
