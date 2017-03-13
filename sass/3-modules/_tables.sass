@@ -1,0 +1,34 @@
+// Module Tables
+
+$color-even-cell: transparentize($yellow, .8)
+
+.table
+  //background-color: $orange
+  font-size: 1rem
+  text-align: left
+  width: 100%
+
+  caption
+    font-size: 1.5rem
+    text-align: center
+    padding-bottom: 5px
+
+  tbody
+  tr
+    &:nth-child(even)
+      background-color: $color-even-cell
+    &:hover
+      background-color: opacify($color-even-cell, .3)
+
+  th,td
+    padding: 10px
+    border-bottom: 1px dooted $blue
+
+  thead
+    tr
+    background-color: $blue
+    color: $color-background
+    &:hover
+      background-color: complement($blue)
+    th
+      border-bottom: 0
