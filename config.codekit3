@@ -43,6 +43,30 @@
 		"oAP": "\/css\/app.css.map",
 		"oF": 0
 		},
+	"\/images\/.qicon": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/images\/.qicon",
+		"oF": 0
+		},
+	"\/images\/bridge.jpg": {
+		"ft": 16384,
+		"iS": 272217,
+		"oA": 0,
+		"oAP": "\/images\/bridge.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/water.jpg": {
+		"ft": 16384,
+		"iS": 355597,
+		"oA": 0,
+		"oAP": "\/images\/water.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -203,12 +227,6 @@
 		"oAP": "\/sass\/css\/normalize.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/sass\/css\/normalize.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sass\/css\/normalize.css.map",
-		"oF": 0
 		}
 	},
 "hooks": [

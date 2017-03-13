@@ -443,8 +443,19 @@ h1, h2, h3, h4, h5, h6 {
     color: #0076A3; }
 
 .jumbotron {
-  background: #022933;
+  background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.6)), url("../images/water.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   height: 600px; }
+
+.bridge {
+  background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.6)), url("../images/bridge.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-position: top center; }
 
 .media {
   margin: 0;
