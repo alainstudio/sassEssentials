@@ -9,3 +9,11 @@
   background-position: center center
   background-size: cover
   height: $height
+
+=clearfix
+  &:before
+  &:after
+    content: ''
+    display: table
+  &:after
+    clear: both
